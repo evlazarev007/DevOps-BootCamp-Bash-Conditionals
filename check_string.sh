@@ -17,4 +17,4 @@ for ((i=0;i<=${#input};i++)); do
 	fi
 done
 
-echo "Nubers: $numbers Symbols: $symbols Letters: $letters"
+echo "Numbers: $numbers Symbols: $symbols Letters: $letters"
